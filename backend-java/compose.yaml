@@ -1,0 +1,10 @@
+services:
+  postgres:
+    image: 'postgres'
+    environment:
+       POSTGRES_DB: ScrapeDb
+       POSTGRES_PASSWORD: password
+       POSTGRES_USER: postgres
+       TZ: 'Asia/Kolkata'
+    ports:
+      - '54943:54943'

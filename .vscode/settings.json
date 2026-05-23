@@ -1,0 +1,4 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "java.jdt.ls.java.home": "C:\Users\pokem\.vscode\extensions\oracle.oracle-java-25.1.0\out\webviews\jdkDownloader\jdk_downloads\jdk-26.0.1"
+}
